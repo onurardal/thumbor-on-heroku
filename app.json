@@ -10,5 +10,5 @@
             "url": "heroku/python"
         }
     ],
-    "stack": "heroku-16"
+    "stack": "heroku-18"
 }
