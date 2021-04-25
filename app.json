@@ -4,7 +4,7 @@
         "thumbor",
         "python"
     ],
-    "repository": "https://github.com/metinirden/thumbor-on-heroku",
+    "repository": "https://github.com/onurardal/thumbor-on-heroku.git",
     "buildpacks": [
         {
             "url": "heroku/python"
